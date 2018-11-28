@@ -1,0 +1,6 @@
+framework module AJTestSDK {
+  umbrella header "AJTestSDK.h"
+
+  export *
+  module * { export * }
+}
